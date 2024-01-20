@@ -19,4 +19,4 @@ Recebendo a shell:
 	<img width="600" height="300" src="src/Img2.png">
 </p>
 
-Obs: Imagens tiradas utilizando um host para fins de estudo
+Obs: Imagens tiradas utilizando um host para fins de estudo.
